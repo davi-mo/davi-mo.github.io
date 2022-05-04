@@ -39,10 +39,11 @@
         "bootstrap": "4.5.3"
     },
     "devDependencies": {
+        "async": "^2.6.4",
         "autoprefixer": "10.0.1",
-        "browser-sync": "^2.26.14",
+        "browser-sync": "^2.27.9",
         "chokidar": "3.4.3",
-        "concurrently": "^7.0.0",
+        "concurrently": "^7.1.0",
         "postcss": "8.2.13",
         "prettier": "2.1.2",
         "pug": "3.0.1",
